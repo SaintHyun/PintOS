@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.rmd": "markdown",
+        "syscall.h": "c",
+        "interrupt.h": "c",
+        "thread.h": "c",
+        "vaddr.h": "c",
+        "atomic": "c",
+        "syscall-nr.h": "c",
+        "stdint.h": "c",
+        "palloc.h": "c",
+        "*.inc": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "thread": "c",
+        "file.h": "c",
+        "inode.h": "c",
+        "chrono": "c",
+        "ctime": "c"
+    }
+}
