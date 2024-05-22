@@ -649,3 +649,8 @@ bool compare_priority(const struct list_elem *elem1, const struct list_elem *ele
 {
   return list_entry(elem1, struct thread, elem)->priority > list_entry(elem2, struct thread, elem)->priority; 
 }
+
+void aaaa()
+{
+  
+}
